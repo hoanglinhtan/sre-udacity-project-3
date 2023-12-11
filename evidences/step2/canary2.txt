@@ -1,0 +1,15 @@
+NAMESPACE     NAME                          READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-6mvhj                1/1     Running   0          23m
+kube-system   aws-node-h4r6z                1/1     Running   0          23m
+kube-system   coredns-5948f55769-bmvcm      1/1     Running   0          27m
+kube-system   coredns-5948f55769-wbmg6      1/1     Running   0          27m
+kube-system   kube-proxy-7c662              1/1     Running   0          23m
+kube-system   kube-proxy-kcw9s              1/1     Running   0          23m
+udacity       blue-6b6b7cf74d-6dtp5         1/1     Running   0          20m
+udacity       blue-6b6b7cf74d-hhtcz         1/1     Running   0          20m
+udacity       blue-6b6b7cf74d-nht67         1/1     Running   0          20m
+udacity       canary-v1-84676f5bb7-bqsf8    1/1     Running   0          92s
+udacity       canary-v1-84676f5bb7-scvnn    1/1     Running   0          92s
+udacity       canary-v2-7b4d74dcb9-9f5qm    1/1     Running   0          12s
+udacity       canary-v2-7b4d74dcb9-hsnqb    1/1     Running   0          21s
+udacity       hello-world-c57f59b87-2t5wn   1/1     Running   0          20m
